@@ -1,6 +1,6 @@
 Hi 👋,
 
-Engineer with a passion for design, cryptography & distributed systems.
+Engineer with a passion for design, cryptography, distributed systems & GPUs. Rust/Go/Swift/TS.
 
 ## Things I am working on
 ### Jacana [WIP]
