@@ -6,7 +6,7 @@ Engineer with a passion for:
 - distributed systems
 - GPUs
 
-Professionally, I’ve shipped production systems in:
+Professionally, I have worked with:
 - Rust
 - Go
 - Swift
