@@ -13,7 +13,7 @@ Professionally, I have worked with:
 - JavaScript/TypeScript
 - Python
 
-## Things I am working on
+## Things I have worked (or working) on
 
 ### [Jacana](https://github.com/mip404/jacana) (WIP)
 A high-throughput Solana Geyser plugin for real-time blockchain data ingestion using ClickHouse as its columnar data store.
