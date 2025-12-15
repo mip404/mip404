@@ -20,6 +20,3 @@ A high-throughput Solana Geyser plugin for real-time blockchain data ingestion u
 
 ### [Gum](https://github.com/mip404/gum) (WIP)
 A clean, readable, and instantly approachable typeface built for playful, expressive interfaces.
-
-### [NumberFlow](https://github.com/mip404/NumberFlow)
-Animated number component with buttery smooth transitions
