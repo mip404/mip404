@@ -1,10 +1,10 @@
 Hi 👋
 
-Engineer with a passion for _cryptography, distributed systems, GPUs & UI/UX/Typeface design._
+Engineer with a passion for **cryptography, distributed systems, GPUs & UI/UX/Typeface design.**
 
-Professionally, I have worked with _Rust, Go, Swift, JS/TS & Python_
+Professionally, I have worked with **Rust, Go, Swift, JS/TS & Python**
 
-I once knew _Java, C/C++_
+I once knew **Java, C/C++**
 
 ## Things I have worked (or working) on:
 
