@@ -6,9 +6,7 @@ Engineer with a passion for
 - GPUs
 - Design (UI/UX/Typeface design)
 
-Professionally, I have worked with **Rust, Go, Swift, JS/TS & Python**
-
-I once knew **Java, C/C++**
+Professionally, I have worked with **Rust, Go, Swift, JS/TS & Python**. I once knew **Java, C/C++**.
 
 ## Things I have worked (or working) on:
 
